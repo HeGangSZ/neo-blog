@@ -1,6 +1,13 @@
 # neo-blog
 Neo的网络日志
 
+## 2022.01.01
+
+### 你应该了解的前端标准化
+https://mp.weixin.qq.com/s/6zdppvbLyPz9cd8ZWGdUVA  
+纪要：对前端标准化的体系进行了普及，了解标准化的历史也能更好地理解前端是如何发展的，里面提到很多延伸的知识点可以再深入了解：https://f2e.tech/home
+
+
 ## 2021.12.25
 
 ### DevTools 实现原理与性能分析实战
