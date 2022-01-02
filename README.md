@@ -1,6 +1,13 @@
 # neo-blog
 Neo的网络日志
 
+## 2022.01.02
+
+### Webpack 性能系列四：分包优化
+https://mp.weixin.qq.com/s/LrASIdA19iwIwng29G5HpA  
+纪要：详述了webpack4里的SplitChunksPlugin分包方案要如何进行配置，以得到更优的分包策略。这些配置项真复杂啊，webpack配置也成为了一项技能
+
+
 ## 2022.01.01
 
 ### 你应该了解的前端标准化
