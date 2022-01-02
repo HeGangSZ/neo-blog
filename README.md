@@ -16,7 +16,7 @@ https://mp.weixin.qq.com/s/6zdppvbLyPz9cd8ZWGdUVA
 
 ### 快速掌握 Performance 性能分析：一个真实的优化案例
 https://mp.weixin.qq.com/s/T_Z_xKByZwbrvERoG-1OFw  
-纪要：通过简单案例介绍如果进行性能优化，性能优化其实没有什么银弹，也不是非常难的技术，就是找到瓶颈解决，再找到瓶颈解决的过程
+纪要：通过简单案例介绍如何进行性能优化，性能优化其实没有什么银弹，也不是非常难的技术，就是找到瓶颈解决，再找到瓶颈解决的过程
 
 
 ## 2021.12.25
