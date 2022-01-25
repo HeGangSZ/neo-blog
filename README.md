@@ -1,6 +1,13 @@
 # neo-blog
 Neo的网络日志
 
+## 2022.01.25
+
+### 腾讯课堂 H5 直播间点赞动效实现
+https://mp.weixin.qq.com/s/wGQ-Dwg4wERTnBmPhj0hsQ  
+纪要：可以通过css和canvas两种形式实现点赞，点赞是直播间的必备功能，mark
+
+
 ## 2022.01.02
 
 ### Webpack 性能系列四：分包优化
